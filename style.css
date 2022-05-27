@@ -2,13 +2,14 @@ body {
   margin: 0;
   min-width: 960px;
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
-  font-size: 16px;
-  line-height: 32px;
-  color: #222222;
+  font-size: 25px;
+  line-height: 48px;
+  color: #ffffff;
   background-color: #f2f4f6;
-  background-image: url("img/hero-bg.jpg");
+  background-image: url("img/pexels-ekaterina-bolovtsova-6077181.jpg");
   background-repeat: no-repeat;
-  background-position: top center;
+  background-position: center;
+  font-family: 'Oswald', sans-serif;
 }
 
 .container {
@@ -30,7 +31,7 @@ body {
 
 .page-header a {
   margin-left: 56px;
-  color: #288be6;
+  color: #ffffff;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
@@ -56,11 +57,14 @@ body {
 }
 
 .heading {
-  margin: 0 0 16px;
-  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
-  font-size: 88px;
+  margin: 100px 100px 100px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 110px;
   line-height: 96px;
   font-weight: 400;
+  background-color: #51524E;
+  width: 1500px;
+  height: 149px;
 }
 
 .hero-image p {
@@ -75,7 +79,7 @@ body {
 
 .subheading {
   margin: 0 0 56px;
-  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 64px;
   line-height: 80px;
   font-weight: 400;
@@ -124,7 +128,7 @@ body {
   height: 14px;
   font-size: 0;
   background-color: #ffffff;
-  border: 1px solid #86c3fa;
+  border: 1px solid #98dd17;
   border-radius: 8px;
 }
 
@@ -165,14 +169,14 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   border-radius: 4px;
-  background-color: #288be6;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #6e5d83;
 }
 
 .page-footer {
   padding: 40px 0;
-  background-color: #00417d;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #2b1d1d;
 }
 
 .page-footer a {
